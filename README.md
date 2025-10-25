@@ -1,0 +1,1 @@
+Natural Gas Price Analysis is a data analytics project designed to track, analyze, and understand trends in natural gas markets using historical pricing data. The project serves as a foundation for energy market analysis, price forecasting, and strategic decision-making in the energy sector.
